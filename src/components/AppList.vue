@@ -429,6 +429,8 @@
     padding: 20px 0;
     width: 100%;
     height: 100px;
+    position: absoulte;
+    bottom: 0;
   }
   
   #app-footer span {
